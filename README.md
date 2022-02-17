@@ -1,4 +1,4 @@
-******* Create Customer Table *********
+## Create Customer Table ##
 
 CREATE TABLE Customer(
 	Customer_id VARCHAR(20) NOT NULL,
